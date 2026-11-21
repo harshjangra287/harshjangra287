@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate AI Engineer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://www.codeias.com/wp-content/uploads/2019/12/mdadain-qdimg-cdda59d626dc8asdasd6397fe45080e6e9c7d027ddasd.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshjangra287&label=Profile%20views&color=0e75b6&style=flat" alt="harshjangra287" /> </p>
